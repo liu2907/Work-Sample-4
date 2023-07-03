@@ -1,0 +1,557 @@
+[
+  {
+    "title": "A1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e71",
+    "_parentId": "62d56830da1c5f033b199e6d",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/7366b7d5bbee7c7b71b0271a20a2204c7b8a98cd.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e74",
+    "_parentId": "62d56830da1c5f033b199e6e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/9c698bed5fbd53d8e531a0b5caf6e479fafe737c.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e78",
+    "_parentId": "62d56830da1c5f033b199e6f",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/9c698bed5fbd53d8e531a0b5caf6e479fafe737c.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e7b",
+    "_parentId": "62d56830da1c5f033b199e70",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/7aa42ebabd2a2020161ad97d2541776710536ab3.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e72",
+    "_parentId": "62d56830da1c5f033b199e6d",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/9c698bed5fbd53d8e531a0b5caf6e479fafe737c.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e75",
+    "_parentId": "62d56830da1c5f033b199e6e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/7366b7d5bbee7c7b71b0271a20a2204c7b8a98cd.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e79",
+    "_parentId": "62d56830da1c5f033b199e6f",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/7366b7d5bbee7c7b71b0271a20a2204c7b8a98cd.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e7c",
+    "_parentId": "62d56830da1c5f033b199e70",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/7366b7d5bbee7c7b71b0271a20a2204c7b8a98cd.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e73",
+    "_parentId": "62d56830da1c5f033b199e6d",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "quaternary",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e76",
+    "_parentId": "62d56830da1c5f033b199e6e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/9c698bed5fbd53d8e531a0b5caf6e479fafe737c.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e7d",
+    "_parentId": "62d56830da1c5f033b199e70",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "quaternary",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d5785fda1c5f033b199f00",
+    "_parentId": "62d56830da1c5f033b199e6f",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/9c698bed5fbd53d8e531a0b5caf6e479fafe737c.jpg",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e77",
+    "_parentId": "62d56830da1c5f033b199e6e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "quaternary",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e7e",
+    "_parentId": "62d56830da1c5f033b199e6f",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/ebec628733480e86f869c2c94b6a959f520392d5.png",
+      "backgroundImageAlt": "Email to Jane from the Office of Civil Rights reading: We are pleased to inform you that your request for an accommodation per the Americans with Disabilities Act has been approved.",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A5",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e7a",
+    "_parentId": "62d56830da1c5f033b199e6f",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "quaternary",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

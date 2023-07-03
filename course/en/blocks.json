@@ -1,0 +1,1250 @@
+[
+  {
+    "title": "A1, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e7f",
+    "_parentId": "62d56830da1c5f033b199e71",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e82",
+    "_parentId": "62d56830da1c5f033b199e73",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e84",
+    "_parentId": "62d56830da1c5f033b199e74",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e85",
+    "_parentId": "62d56830da1c5f033b199e75",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e88",
+    "_parentId": "62d56830da1c5f033b199e76",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A4, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e8a",
+    "_parentId": "62d56830da1c5f033b199e77",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e8c",
+    "_parentId": "62d56830da1c5f033b199e78",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e8e",
+    "_parentId": "62d56830da1c5f033b199e79",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e8f",
+    "_parentId": "62d5785fda1c5f033b199f00",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A5, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e93",
+    "_parentId": "62d56830da1c5f033b199e7a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e95",
+    "_parentId": "62d56830da1c5f033b199e7b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e99",
+    "_parentId": "62d56830da1c5f033b199e7c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e9c",
+    "_parentId": "62d56830da1c5f033b199e7d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e9e",
+    "_parentId": "62d56830da1c5f033b199e72",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A4, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e9f",
+    "_parentId": "62d56830da1c5f033b199e7e",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e80",
+    "_parentId": "62d56830da1c5f033b199e72",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "ADA Protections",
+    "displayTitle": "ADA Protections",
+    "body": "<p>The goal of the ADA is to ensure that people with disabilities are able to live fulfilling lives and engage in the same aspects of public and daily life as people who do not have disabilities.</p><p>A crucial aspect of daily life is being able to work; having a disability shouldn’t hold a person back from being able to earn a living. As such, the law provides protections for employment in two ways. Read each type of protection, then click Example to learn more.</p>",
+    "_classes": "",
+    "_trackingId": 17,
+    "instruction": "Click the Example button on the bottom of each card to learn more.",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e86",
+    "_parentId": "62d56830da1c5f033b199e75",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e89",
+    "_parentId": "62d56830da1c5f033b199e76",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A4, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e8b",
+    "_parentId": "62d56830da1c5f033b199e77",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e8d",
+    "_parentId": "62d56830da1c5f033b199e79",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e90",
+    "_parentId": "62d5785fda1c5f033b199f00",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A5, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e94",
+    "_parentId": "62d56830da1c5f033b199e7a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e96",
+    "_parentId": "62d56830da1c5f033b199e7b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 24,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e9d",
+    "_parentId": "62d56830da1c5f033b199e7d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56e3dda1c5f033b199efc",
+    "_parentId": "62d56830da1c5f033b199e78",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d6d061da1c5f033b199fa7",
+    "_parentId": "62d56830da1c5f033b199e7c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e81",
+    "_parentId": "62d56830da1c5f033b199e72",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e83",
+    "_parentId": "62d56830da1c5f033b199e73",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "When ADA Protections Apply",
+    "displayTitle": "When ADA Protections Apply",
+    "body": "<p>The ADA doesn’t just apply to employees already on the job.&nbsp;Read about each of the other times when employees are protected, then click Example to learn more.</p>",
+    "_classes": "",
+    "_trackingId": 29,
+    "instruction": "Click the Example button on the bottom of each card to learn more",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e87",
+    "_parentId": "62d56830da1c5f033b199e75",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e91",
+    "_parentId": "62d5785fda1c5f033b199f00",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e97",
+    "_parentId": "62d56830da1c5f033b199e7b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d5764fda1c5f033b199efe",
+    "_parentId": "62d56830da1c5f033b199e79",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62e3f732da1c5f033b19a4ed",
+    "_parentId": "62d56830da1c5f033b199e7c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 34,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e92",
+    "_parentId": "62d5785fda1c5f033b199f00",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e98",
+    "_parentId": "62d56830da1c5f033b199e7b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d6d084da1c5f033b199fa9",
+    "_parentId": "62d56830da1c5f033b199e7c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 37,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e9a",
+    "_parentId": "62d56830da1c5f033b199e7c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B5",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 38,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d57c8ada1c5f033b199f04",
+    "_parentId": "62d5785fda1c5f033b199f00",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B5",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 39,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e9b",
+    "_parentId": "62d56830da1c5f033b199e7c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

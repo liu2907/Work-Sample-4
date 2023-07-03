@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>Approximate duration: 5 minutes</p>",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e6d",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "Jane in a dark room with her eyes closed",
+      "src": "course/en/assets/137ed194ca725c09c21f13d9a6c289892be2e65a.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": true,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "course/en/assets/342fa145493c3ce133668b34c09c6f8217866965.jpg",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  },
+  {
+    "title": "What is the ADA?",
+    "displayTitle": "What is the ADA?",
+    "body": "<p>Approximate duration: 8 minutes</p>",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e6e",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Jane wearing sunglasses at her desk due to migraine",
+      "src": "course/en/assets/318e634ab8607fb9c29e4f0fb84d0cacecd7aaca.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": true,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "course/en/assets/342fa145493c3ce133668b34c09c6f8217866965.jpg",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  },
+  {
+    "title": "Supervisor Responsibilities",
+    "displayTitle": "Supervisor Responsibilities",
+    "body": "<p>Approximate duration: 8 minutes</p>",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e6f",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Jane and Margie talking in Margie’s office",
+      "src": "course/en/assets/54369dadadbeb85c81a49f29c745353428f28b6a.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": true,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "course/en/assets/342fa145493c3ce133668b34c09c6f8217866965.jpg",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": false
+    }
+  },
+  {
+    "title": "Accommodations and the Interactive Process",
+    "displayTitle": "Accommodations and the Interactive Process",
+    "body": "<p>Approximate duration: 15 minutes</p>",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62d56830da1c5f033b199e70",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Margie and Brent talking with Jane in Margie’s office",
+      "src": "course/en/assets/4ee83e03ceaf3ffdb3d2b6db3b0969376513340d.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": true,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "course/en/assets/342fa145493c3ce133668b34c09c6f8217866965.jpg",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  }
+]
